@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/artb1sh/zabbix-docker-postgre.svg?branch=master)](https://travis-ci.org/artb1sh/zabbix-docker-postgre)
 # zabbix-docker-postgre
 
 Steps for running
